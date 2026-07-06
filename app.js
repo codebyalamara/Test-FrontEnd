@@ -7,7 +7,7 @@ const updateBlogBtn = document.getElementById('updateBlogBtn')
 
 const BASE_URL = 'https://blog-task-backend-server-b5rm.onrender.com'
 
-const BASE_URL = 'http://localhost:3000'
+// const BASE_URL = 'http://localhost:3000'
 let blogsArray = []
 
 function snackbar(msg, icon) {
